@@ -9,7 +9,7 @@ const StyledElement = styled.div`
 	width: 100vw;
 `;
 const App = () => {
-	const [value, setValue] = useState('');
+	const [value, setValue] = useState('erioferf e');
 	return (
 		<StyledElement>
 			<PasswordInput
